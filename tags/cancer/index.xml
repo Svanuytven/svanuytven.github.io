@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancer | Behind The Bioinformatics</title>
+    <link>https://svanuytven.github.io/tags/cancer/</link>
+      <atom:link href="https://svanuytven.github.io/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cancer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2019 10:34:10 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Cancer</title>
+      <link>https://svanuytven.github.io/tags/cancer/</link>
+    </image>
+    
+    <item>
+      <title>Single-Cell Multi-Omics Sequencing to Understand the Nature, Extent and Biology of Cellular Heterogeneity in Six Special Breast Cancer Cases</title>
+      <link>https://svanuytven.github.io/talk/embotokyo/</link>
+      <pubDate>Fri, 03 May 2019 10:34:10 +0200</pubDate>
+      <guid>https://svanuytven.github.io/talk/embotokyo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell multi-omics to detect genetic variants in cancer and development</title>
+      <link>https://svanuytven.github.io/talk/trainmalta/</link>
+      <pubDate>Tue, 23 Oct 2018 15:53:54 +0200</pubDate>
+      <guid>https://svanuytven.github.io/talk/trainmalta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell multi-omics sequencing to understand the nature, extent and biology of cellular heterogeneity in breast cancer</title>
+      <link>https://svanuytven.github.io/talk/rsgsymposium2018/</link>
+      <pubDate>Wed, 09 May 2018 14:10:41 +0200</pubDate>
+      <guid>https://svanuytven.github.io/talk/rsgsymposium2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell multi-omics sequencing to understand the nature, extent and biology of cellular heterogeneity in breast cancer</title>
+      <link>https://svanuytven.github.io/talk/eshg2018/</link>
+      <pubDate>Wed, 21 Mar 2018 11:18:59 +0100</pubDate>
+      <guid>https://svanuytven.github.io/talk/eshg2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell multi-omics sequencing to understand the nature, extent and biology of cellular heterogeneity in breast cancer</title>
+      <link>https://svanuytven.github.io/talk/beshg2018/</link>
+      <pubDate>Wed, 21 Mar 2018 11:06:52 +0100</pubDate>
+      <guid>https://svanuytven.github.io/talk/beshg2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

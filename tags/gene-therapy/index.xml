@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gene Therapy | Behind The Bioinformatics</title>
+    <link>https://svanuytven.github.io/tags/gene-therapy/</link>
+      <atom:link href="https://svanuytven.github.io/tags/gene-therapy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gene Therapy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Mar 2018 10:37:46 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Gene Therapy</title>
+      <link>https://svanuytven.github.io/tags/gene-therapy/</link>
+    </image>
+    
+    <item>
+      <title>Studying BET protein-chromatin occupation to understand genotoxicity of MLV-based gene therapy vectors</title>
+      <link>https://svanuytven.github.io/talk/bbc2015ss/</link>
+      <pubDate>Wed, 21 Mar 2018 10:37:46 +0100</pubDate>
+      <guid>https://svanuytven.github.io/talk/bbc2015ss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

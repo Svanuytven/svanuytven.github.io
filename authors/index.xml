@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Behind The Bioinformatics</title>
+    <link>https://svanuytven.github.io/authors/</link>
+      <atom:link href="https://svanuytven.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://svanuytven.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>**Sebastiaan Vanuytven**</title>
+      <link>https://svanuytven.github.io/authors/sebastiaan-vanuytven/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/sebastiaan-vanuytven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna-Marei Böhm&#43;</title>
+      <link>https://svanuytven.github.io/authors/anna-marei-bohm&#43;/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/anna-marei-bohm&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christa Maes</title>
+      <link>https://svanuytven.github.io/authors/christa-maes/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/christa-maes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elena Nefyodova</title>
+      <link>https://svanuytven.github.io/authors/elena-nefyodova/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/elena-nefyodova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Koen Theunis</title>
+      <link>https://svanuytven.github.io/authors/koen-theunis/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/koen-theunis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Van Hul</title>
+      <link>https://svanuytven.github.io/authors/matthias-van-hul/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/matthias-van-hul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naomi Dirckx&#43;</title>
+      <link>https://svanuytven.github.io/authors/naomi-dirckx&#43;/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/naomi-dirckx&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolas Peredo</title>
+      <link>https://svanuytven.github.io/authors/nicolas-peredo/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/nicolas-peredo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert J. Tower&#43;</title>
+      <link>https://svanuytven.github.io/authors/robert-j.-tower&#43;/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/robert-j.-tower&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruben Cardoen</title>
+      <link>https://svanuytven.github.io/authors/ruben-cardoen/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/ruben-cardoen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thierry Voet</title>
+      <link>https://svanuytven.github.io/authors/thierry-voet/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/thierry-voet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volkhard Lindner</title>
+      <link>https://svanuytven.github.io/authors/volkhard-lindner/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/volkhard-lindner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://svanuytven.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD student in the Laboratory of Reproductive Genomics (KU Leuven) &amp;amp; Cancer Genomics Laboratory (Francis Crick Institute). My research focuses on studying the role of tumoral cellular heterogeneity in therapy resistance and metastasis, using the recently developed single-cell multi-omics techniques.&lt;/p&gt;
+&lt;p&gt;In my downtime, I spend my days listening to 
+&lt;a href=&#34;https://radio1.be/programma/interne-keuken&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;podcasts&lt;/a&gt;
+, reading books, collecting useless facts and running 5Ks. I also act as the 
+&lt;a href=&#34;http://www.rsg-belgium.iscbsc.org/organization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RSGB student representative for the KU Leuven&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

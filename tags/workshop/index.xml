@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop | Behind The Bioinformatics</title>
+    <link>https://svanuytven.github.io/tags/workshop/</link>
+      <atom:link href="https://svanuytven.github.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workshop</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Oct 2018 15:53:54 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Workshop</title>
+      <link>https://svanuytven.github.io/tags/workshop/</link>
+    </image>
+    
+    <item>
+      <title>Single-cell multi-omics to detect genetic variants in cancer and development</title>
+      <link>https://svanuytven.github.io/talk/trainmalta/</link>
+      <pubDate>Tue, 23 Oct 2018 15:53:54 +0200</pubDate>
+      <guid>https://svanuytven.github.io/talk/trainmalta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

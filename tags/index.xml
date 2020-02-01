@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Behind The Bioinformatics</title>
+    <link>https://svanuytven.github.io/tags/</link>
+      <atom:link href="https://svanuytven.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2019 10:34:10 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tags</title>
+      <link>https://svanuytven.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Cancer</title>
+      <link>https://svanuytven.github.io/tags/cancer/</link>
+      <pubDate>Fri, 03 May 2019 10:34:10 +0200</pubDate>
+      <guid>https://svanuytven.github.io/tags/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-omics</title>
+      <link>https://svanuytven.github.io/tags/multi-omics/</link>
+      <pubDate>Fri, 03 May 2019 10:34:10 +0200</pubDate>
+      <guid>https://svanuytven.github.io/tags/multi-omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell</title>
+      <link>https://svanuytven.github.io/tags/single-cell/</link>
+      <pubDate>Fri, 03 May 2019 10:34:10 +0200</pubDate>
+      <guid>https://svanuytven.github.io/tags/single-cell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://svanuytven.github.io/tags/development/</link>
+      <pubDate>Tue, 23 Oct 2018 15:53:54 +0200</pubDate>
+      <guid>https://svanuytven.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>https://svanuytven.github.io/tags/workshop/</link>
+      <pubDate>Tue, 23 Oct 2018 15:53:54 +0200</pubDate>
+      <guid>https://svanuytven.github.io/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics</title>
+      <link>https://svanuytven.github.io/tags/bioinformatics/</link>
+      <pubDate>Wed, 21 Mar 2018 10:37:46 +0100</pubDate>
+      <guid>https://svanuytven.github.io/tags/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene Therapy</title>
+      <link>https://svanuytven.github.io/tags/gene-therapy/</link>
+      <pubDate>Wed, 21 Mar 2018 10:37:46 +0100</pubDate>
+      <guid>https://svanuytven.github.io/tags/gene-therapy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
