@@ -5,12 +5,37 @@
     <link>https://svanuytven.github.io/post/</link>
       <atom:link href="https://svanuytven.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2020 21:07:26 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>https://svanuytven.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Finding “relevant” papers in today’s scientific world</title>
+      <link>https://svanuytven.github.io/post/finding-relevant-papers/</link>
+      <pubDate>Sat, 27 Jun 2020 21:07:26 +0200</pubDate>
+      <guid>https://svanuytven.github.io/post/finding-relevant-papers/</guid>
+      <description>&lt;p&gt;Recently, I got the question by one of my colleagues to describe my routine of finding interesting papers. Although I’m already in the third year of my PhD, I still vividly remember my struggle to find relevant and interesting articles when I started.&lt;br&gt;
+Now, I do already have to admit that its highly likely that I will not be able to help you much with the “relevant” part, but I do want to give my two-cents on how you can try to keep yourself up-to-date in today’s scientific world.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tip 1: Ask paper suggestions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When starting a PhD and/or a master dissertation, your main and best resource to help you acquire knowhow, are your supervisors and colleagues. Most of the time, they will be very eager to help you and honoured that you ask them for advice. Next to mining the references of the papers that are suggested, you can also create alerts for new publications of the authors on PubMed/Google Scholar. Furthermore, I highly recommend following these researchers on Twitter. In addition to announcing their newly published articles or preprint, some scientists post brief summaries of their most important findings (more on the benefit of Twitter in Tip 2).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tip 2: The most important social media app for scientist: Twitter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It’s hard to imagine a world without social media anymore, in particular Twitter has become an integral part of my literature search routine. As mentioned in Tip 1, I highly encourage you to follow the leading researchers in your field on Twitter. Most do not only announce their new articles/preprint, but also discuss papers of other researchers and/or offer some more general insights in a variety of (scientific) topics. In addition, the medium also allows you the interact with these experts even though you have never met in person. There are already many stories of fruitful collaborations that started by simple interactions on Twitter.&lt;br&gt;
+A second reason to incorporate Twitter in your search for interesting articles is the existence of paper bots. Such accounts are programmed to announce every article/preprint that is published matching some key words and/or related to a certain publisher. Some examples are the Single Cell Paper, BioRxiv and RNA_seq bot. Especially for finding interesting preprints, I highly recommend subscribing to the BioRxiv accounts related to your subject (e.g. biorxiv_genomics, biorxiv_bioinfo …).&lt;/p&gt;
+&lt;p&gt;For people in the single-cell field, you can always take a look at my single-cell list 
+&lt;a href=&#34;https://twitter.com/Svanuytven&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(@svanuytven)&lt;/a&gt;
+ for some inspiration of who you can/should follow on Twitter :).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tip 3: RSS readers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The last and probably most important advice that I can give you, is to start using an RSS reader. RSS readers are apps/sites that aggregate posts published by websites and curate this content for you. In this manner, you don’t need to visit the individual information sources anymore. Most scientific journals offer an RSS feed that can be readily plugged into any RSS reader application.
+At the bottom, I added a screenshot with the list of journals/publishers I’m currently subscribed to. Furthermore, it is also possible to 
+&lt;a href=&#34;https://www.lifewire.com/create-a-twitter-rss-feed-3486601&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;create RSS feeds of twitter accounts&lt;/a&gt;
+. This can further help you in creating one central hub for all potentially interesting papers.
+The only thing left for you is grading each article if it will be worth your time… And that’s most of the time the hardest part.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This blogpost is dedicated to my former colleague ELV, who encouraged me to write down my advice and offered valuable feedback on the initial draft(s).&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

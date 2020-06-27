@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Behind The Bioinformatics</title>
-    <link>https://svanuytven.github.io/</link>
-      <atom:link href="https://svanuytven.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Behind The Bioinformatics</description>
+    <title>Finding Papers | Behind The Bioinformatics</title>
+    <link>https://svanuytven.github.io/tags/finding-papers/</link>
+      <atom:link href="https://svanuytven.github.io/tags/finding-papers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Finding Papers</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2020 21:07:26 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Behind The Bioinformatics</title>
-      <link>https://svanuytven.github.io/</link>
+      <title>Finding Papers</title>
+      <link>https://svanuytven.github.io/tags/finding-papers/</link>
     </image>
     
     <item>
@@ -35,62 +35,6 @@ At the bottom, I added a screenshot with the list of journals/publishers I’m c
 The only thing left for you is grading each article if it will be worth your time… And that’s most of the time the hardest part.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This blogpost is dedicated to my former colleague ELV, who encouraged me to write down my advice and offered valuable feedback on the initial draft(s).&lt;/em&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Activation of Skeletal Stem and Progenitor Cells for Bone Regeneration Is Driven by PDGFRb Signaling</title>
-      <link>https://svanuytven.github.io/publication/bohm-aa/</link>
-      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://svanuytven.github.io/publication/bohm-aa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single-Cell Multi-Omics Sequencing to Understand the Nature, Extent and Biology of Cellular Heterogeneity in Six Special Breast Cancer Cases</title>
-      <link>https://svanuytven.github.io/talk/embotokyo/</link>
-      <pubDate>Fri, 03 May 2019 10:34:10 +0200</pubDate>
-      <guid>https://svanuytven.github.io/talk/embotokyo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single-cell multi-omics to detect genetic variants in cancer and development</title>
-      <link>https://svanuytven.github.io/talk/trainmalta/</link>
-      <pubDate>Tue, 23 Oct 2018 15:53:54 +0200</pubDate>
-      <guid>https://svanuytven.github.io/talk/trainmalta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single-cell multi-omics sequencing to understand the nature, extent and biology of cellular heterogeneity in breast cancer</title>
-      <link>https://svanuytven.github.io/talk/rsgsymposium2018/</link>
-      <pubDate>Wed, 09 May 2018 14:10:41 +0200</pubDate>
-      <guid>https://svanuytven.github.io/talk/rsgsymposium2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single-cell multi-omics sequencing to understand the nature, extent and biology of cellular heterogeneity in breast cancer</title>
-      <link>https://svanuytven.github.io/talk/eshg2018/</link>
-      <pubDate>Wed, 21 Mar 2018 11:18:59 +0100</pubDate>
-      <guid>https://svanuytven.github.io/talk/eshg2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single-cell multi-omics sequencing to understand the nature, extent and biology of cellular heterogeneity in breast cancer</title>
-      <link>https://svanuytven.github.io/talk/beshg2018/</link>
-      <pubDate>Wed, 21 Mar 2018 11:06:52 +0100</pubDate>
-      <guid>https://svanuytven.github.io/talk/beshg2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Studying BET protein-chromatin occupation to understand genotoxicity of MLV-based gene therapy vectors</title>
-      <link>https://svanuytven.github.io/talk/bbc2015ss/</link>
-      <pubDate>Wed, 21 Mar 2018 10:37:46 +0100</pubDate>
-      <guid>https://svanuytven.github.io/talk/bbc2015ss/</guid>
-      <description></description>
     </item>
     
   </channel>

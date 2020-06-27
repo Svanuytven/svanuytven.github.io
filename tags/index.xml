@@ -5,12 +5,36 @@
     <link>https://svanuytven.github.io/tags/</link>
       <atom:link href="https://svanuytven.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2019 10:34:10 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2020 21:07:26 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://svanuytven.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Finding Papers</title>
+      <link>https://svanuytven.github.io/tags/finding-papers/</link>
+      <pubDate>Sat, 27 Jun 2020 21:07:26 +0200</pubDate>
+      <guid>https://svanuytven.github.io/tags/finding-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>https://svanuytven.github.io/tags/phd/</link>
+      <pubDate>Sat, 27 Jun 2020 21:07:26 +0200</pubDate>
+      <guid>https://svanuytven.github.io/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD advice</title>
+      <link>https://svanuytven.github.io/tags/phd-advice/</link>
+      <pubDate>Sat, 27 Jun 2020 21:07:26 +0200</pubDate>
+      <guid>https://svanuytven.github.io/tags/phd-advice/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cancer</title>
