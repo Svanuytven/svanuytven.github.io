@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khrystyna Platko | Behind The Bioinformatics</title>
+    <link>https://svanuytven.github.io/authors/khrystyna-platko/</link>
+      <atom:link href="https://svanuytven.github.io/authors/khrystyna-platko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Khrystyna Platko</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Khrystyna Platko</title>
+      <link>https://svanuytven.github.io/authors/khrystyna-platko/</link>
+    </image>
+    
+    <item>
+      <title>Activation of Skeletal Stem and Progenitor Cells for Bone Regeneration Is Driven by PDGFRb Signaling</title>
+      <link>https://svanuytven.github.io/publication/dystrophicmucsles/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/publication/dystrophicmucsles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://svanuytven.github.io/authors/</link>
       <atom:link href="https://svanuytven.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,10 +13,154 @@
     </image>
     
     <item>
-      <title>**Sebastiaan Vanuytven**</title>
+      <title>Alejandro Sifrim</title>
+      <link>https://svanuytven.github.io/authors/alejandro-sifrim/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/alejandro-sifrim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giulio Cossu</title>
+      <link>https://svanuytven.github.io/authors/giulio-cossu/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/giulio-cossu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanne Grosemans</title>
+      <link>https://svanuytven.github.io/authors/hanne-grosemans/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/hanne-grosemans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irina Thiry</title>
+      <link>https://svanuytven.github.io/authors/irina-thiry/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/irina-thiry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordi Camps</title>
+      <link>https://svanuytven.github.io/authors/jordi-camps/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/jordi-camps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Khrystyna Platko</title>
+      <link>https://svanuytven.github.io/authors/khrystyna-platko/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/khrystyna-platko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Danti</title>
+      <link>https://svanuytven.github.io/authors/laura-danti/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/laura-danti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marlies Corvelyn</title>
+      <link>https://svanuytven.github.io/authors/marlies-corvelyn/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/marlies-corvelyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marzia Belicchi</title>
+      <link>https://svanuytven.github.io/authors/marzia-belicchi/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/marzia-belicchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maurilio Sampaolesi</title>
+      <link>https://svanuytven.github.io/authors/maurilio-sampaolesi/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/maurilio-sampaolesi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melissa E. MacDonald</title>
+      <link>https://svanuytven.github.io/authors/melissa-e.-macdonald/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/melissa-e.-macdonald/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mirella Meregalli</title>
+      <link>https://svanuytven.github.io/authors/mirella-meregalli/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/mirella-meregalli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natacha Breuls</title>
+      <link>https://svanuytven.github.io/authors/natacha-breuls/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/natacha-breuls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nefele Giarratana</title>
+      <link>https://svanuytven.github.io/authors/nefele-giarratana/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/nefele-giarratana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard C. Austin</title>
+      <link>https://svanuytven.github.io/authors/richard-c.-austin/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/richard-c.-austin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rik Gijsbers</title>
+      <link>https://svanuytven.github.io/authors/rik-gijsbers/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/rik-gijsbers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastiaan Vanuytven</title>
       <link>https://svanuytven.github.io/authors/sebastiaan-vanuytven/</link>
-      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       <guid>https://svanuytven.github.io/authors/sebastiaan-vanuytven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thierry Voet</title>
+      <link>https://svanuytven.github.io/authors/thierry-voet/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/thierry-voet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yvan Torrente</title>
+      <link>https://svanuytven.github.io/authors/yvan-torrente/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/yvan-torrente/</guid>
       <description></description>
     </item>
     
@@ -89,14 +233,6 @@
       <link>https://svanuytven.github.io/authors/ruben-cardoen/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://svanuytven.github.io/authors/ruben-cardoen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thierry Voet</title>
-      <link>https://svanuytven.github.io/authors/thierry-voet/</link>
-      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://svanuytven.github.io/authors/thierry-voet/</guid>
       <description></description>
     </item>
     
