@@ -5,7 +5,7 @@
     <link>https://svanuytven.github.io/authors/</link>
       <atom:link href="https://svanuytven.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,8 +15,200 @@
     <item>
       <title>**Sebastiaan Vanuytven**</title>
       <link>https://svanuytven.github.io/authors/sebastiaan-vanuytven/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://svanuytven.github.io/authors/sebastiaan-vanuytven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christof von Kalle</title>
+      <link>https://svanuytven.github.io/authors/christof-von-kalle/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/christof-von-kalle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christoph Domschke</title>
+      <link>https://svanuytven.github.io/authors/christoph-domschke/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/christoph-domschke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Brown</title>
+      <link>https://svanuytven.github.io/authors/daniel-brown/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/daniel-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eliana Ruggiero&#43;</title>
+      <link>https://svanuytven.github.io/authors/eliana-ruggiero&#43;/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/eliana-ruggiero&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Schütz</title>
+      <link>https://svanuytven.github.io/authors/florian-schutz/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/florian-schutz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iain Macaulay</title>
+      <link>https://svanuytven.github.io/authors/iain-macaulay/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/iain-macaulay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klaus Hexel</title>
+      <link>https://svanuytven.github.io/authors/klaus-hexel/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/klaus-hexel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manfred Schmidt</title>
+      <link>https://svanuytven.github.io/authors/manfred-schmidt/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/manfred-schmidt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Pritsch</title>
+      <link>https://svanuytven.github.io/authors/maria-pritsch/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/maria-pritsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Xydia&#43;</title>
+      <link>https://svanuytven.github.io/authors/maria-xydia&#43;/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/maria-xydia&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maxime Tarabichi</title>
+      <link>https://svanuytven.github.io/authors/maxime-tarabichi/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/maxime-tarabichi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Müller-Steinhardt</title>
+      <link>https://svanuytven.github.io/authors/michael-muller-steinhardt/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/michael-muller-steinhardt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Niels Grabe</title>
+      <link>https://svanuytven.github.io/authors/niels-grabe/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/niels-grabe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Niels Halama</title>
+      <link>https://svanuytven.github.io/authors/niels-halama/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/niels-halama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philipp Beckhove</title>
+      <link>https://svanuytven.github.io/authors/philipp-beckhove/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/philipp-beckhove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raffaele Fronza</title>
+      <link>https://svanuytven.github.io/authors/raffaele-fronza/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/raffaele-fronza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raheleh Rahbari&#43;</title>
+      <link>https://svanuytven.github.io/authors/raheleh-rahbari&#43;/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/raheleh-rahbari&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Lohmayer</title>
+      <link>https://svanuytven.github.io/authors/robert-lohmayer/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/robert-lohmayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sean Laidlaw</title>
+      <link>https://svanuytven.github.io/authors/sean-laidlaw/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/sean-laidlaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Wilkening</title>
+      <link>https://svanuytven.github.io/authors/stefan-wilkening/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/stefan-wilkening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steffen Schmitt</title>
+      <link>https://svanuytven.github.io/authors/steffen-schmitt/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/steffen-schmitt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Svetlana Mastitskaya</title>
+      <link>https://svanuytven.github.io/authors/svetlana-mastitskaya/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/svetlana-mastitskaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thierry Voet</title>
+      <link>https://svanuytven.github.io/authors/thierry-voet/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/thierry-voet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tillmann Michels</title>
+      <link>https://svanuytven.github.io/authors/tillmann-michels/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://svanuytven.github.io/authors/tillmann-michels/</guid>
       <description></description>
     </item>
     
@@ -145,14 +337,6 @@
       <link>https://svanuytven.github.io/authors/rik-gijsbers/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       <guid>https://svanuytven.github.io/authors/rik-gijsbers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thierry Voet</title>
-      <link>https://svanuytven.github.io/authors/thierry-voet/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://svanuytven.github.io/authors/thierry-voet/</guid>
       <description></description>
     </item>
     
