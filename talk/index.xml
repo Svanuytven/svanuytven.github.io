@@ -5,12 +5,20 @@
     <link>https://svanuytven.github.io/talk/</link>
       <atom:link href="https://svanuytven.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2019 10:34:10 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Mar 2021 10:34:10 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://svanuytven.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>The magic behing Genome-and-Transcriptome (G&amp;T) Sequencing</title>
+      <link>https://svanuytven.github.io/talk/gcsinglecell2021/</link>
+      <pubDate>Mon, 15 Mar 2021 10:34:10 +0200</pubDate>
+      <guid>https://svanuytven.github.io/talk/gcsinglecell2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Single-Cell Multi-Omics Sequencing to Understand the Nature, Extent and Biology of Cellular Heterogeneity in Six Special Breast Cancer Cases</title>
